@@ -10,3 +10,12 @@ Intel(R) UHD Graphics 630
 NVIDIA GeForce GTX 1650 4gb
 
 You do not need the same graphics card nor RAM to to run the system
+
+IN ORDER TO HAVE MAC RUNNING YOU NEED TO BaseSystem.dmg file however it was too large to upload to github so you download the file here
+https://drive.google.com/file/d/1PttxkWn7sP76I5dLukd5f584H5Wd5mZC/view?usp=sharing
+
+After installing, you can add the BaseSystem.dmg file to the com.apple.recovery.boot folder then you can attempt to boot.
+
+Download rufus and format your usb into a non-bootable drive then copy and paste these files into your usb, boot and have fun
+
+
